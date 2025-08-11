@@ -1,6 +1,6 @@
 ## Hi, I'm Mark
 
-### AI Automation Specialist | Building Working Solutions, Not Presentations
+### AI Automation Specialist | Building Working Solutions
 
 ### I create functional AI systems that businesses can test and deploy immediately
 
